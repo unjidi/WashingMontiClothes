@@ -1,4 +1,4 @@
-using System;
+using System; 
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -323,6 +323,8 @@ namespace ConsoleTestSimulIO
 			}   //TODO ripete i giramenti per 2 volte
 				// non prende acqua e lascia valvola di scarico aperta, per fare uscire l'acqua dai panni
 				// la velocità di rotazione è alta e non bassa. 
+		
+		Very Good LEO!
 		}
     }
 }
